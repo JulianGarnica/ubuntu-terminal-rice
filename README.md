@@ -2,17 +2,6 @@
 
 Configuracion de terminal extraida de los dotfiles originales de [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) y simplificada para usarse como kit independiente en Ubuntu.
 
-Nombre sugerido para el repositorio:
-
-```text
-ubuntu-terminal-rice
-```
-
-Descripcion sugerida:
-
-```text
-Kit minimalista de terminal para Ubuntu con Kitty, Alacritty, Zsh, Nerd Fonts y tema Tokyo Night inspirado en gh0stzk/dotfiles.
-```
 
 Este repositorio ya no instala un entorno BSPWM completo. Solo conserva lo necesario para reproducir la experiencia de terminal:
 
